@@ -1,9 +1,9 @@
 ## Integrantes:
 
-*Alexia
-*Isabella
-*Maysa
-*Rose
-*Sarah
-*Tifane
-*Vanessa
+-Alexia
+-Isabella
+-Maysa
+-Rose
+-Sarah
+-Tifane
+-Vanessa
